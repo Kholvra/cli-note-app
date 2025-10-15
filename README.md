@@ -6,7 +6,7 @@ A simple command-line interface (CLI) for taking notes, built with Node.js and y
 
 1. Clone this repository:
    ```bash
-   git clone <your-repository-url>
+   git clone https://github.com/Kholvra/cli-note-app
    ```
 2. Navigate to the project directory:
    ```bash
@@ -29,11 +29,6 @@ Use the `new` command to create a new note.
 note new "My new note"
 ```
 
-You can also add tags to your note using the `-t` or `--tags` option.
-
-```bash
-note new "Another note" --tags "work,important"
-```
 
 ### List All Notes
 
